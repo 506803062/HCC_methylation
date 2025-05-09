@@ -1,0 +1,11 @@
+sample	rate	group
+DMR	48.64864865	CDS_Exons
+DhMR	25	CDS_Exons
+DMR	0	5'UTR_Exons
+DhMR	6.25	5'UTR_Exons
+DMR	13.51351351	3'UTR_Exons
+DhMR	0	3'UTR_Exons
+DMR	29.72972973	Introns
+DhMR	50	Introns
+DMR	8.108108108	Intergenic
+DhMR	18.75	Intergenic

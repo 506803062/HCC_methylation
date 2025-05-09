@@ -1,0 +1,9 @@
+sample	rate	group
+Neg_N	82.71279323	5mC
+Neg_T	83.4918119	5mC
+Pos_N	55.73792717	5mC
+Pos_T	57.01810716	5mC
+Neg_N	17.28720677	non-5mC
+Neg_T	16.5081881	non-5mC
+Pos_N	44.26207283	non-5mC
+Pos_T	42.98189284	non-5mC
